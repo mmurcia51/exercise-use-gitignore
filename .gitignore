@@ -1,3 +1,5 @@
 node_modules/
-# Mono auto generated files - Ignore all files starting with "z"
- .env, /artifacts/, z*
+
+ .env
+/artifacts/
+z*
